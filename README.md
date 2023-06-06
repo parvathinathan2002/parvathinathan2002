@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *parvathinathan2002@gmail.com*
 
-- ⚡ Fun fact *I am a devil 😈🤫*
+- ⚡ *I am a devil 😈🤫*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
