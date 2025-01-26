@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvathinathan2002&label=Profile%20views&color=0e75b6&style=flat" alt="parvathinathan2002" /> </p>
 
-- 🔭 I had complete my graduation at Bachelor of Engineering in computer Science
-- at PSR Engineering college *
+- 🔭 I had complete my graduation 2024 B.E Computer Science Engineering at PSR Engineering College
 
 - 🌱 I’m currently learning SpringBoot*
 
