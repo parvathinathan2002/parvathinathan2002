@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvathinathan2002&label=Profile%20views&color=0e75b6&style=flat" alt="parvathinathan2002" /> </p>
 
-- 🔭 I’m currently Studying on *PSR ENGINEERING COLLEGE*
+- 🔭 I had complete my graduation at Bachelor of Engineering in PSR Engineering college *
 
-- 🌱 I’m currently learning *DSA,MySql*
+- 🌱 I’m currently learning SpringBoot*
 
 - 👯 I’m looking to collaborate on *Java*
 
