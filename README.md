@@ -7,10 +7,6 @@
 
 - 🔭 I had complete my graduation 2024 B.E Computer Science Engineering at PSR Engineering College
 
-- 🌱 My resume file:///C:/Users/sathi/AppData/Local/Microsoft/Windows/INetCache/IE/M1ETKOGN/Resume3[1].pdf
-
-- 👯 I’m looking to collaborate on *Java*
-
 - 📫 How to reach me *parvathinathan2002@gmail.com*
 
 
